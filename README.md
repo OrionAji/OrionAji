@@ -17,7 +17,7 @@
 
 [twitter]: https://twitter.com/gamalielaji
 [youtube]: https://www.youtube.com/c/gamalielaji
-[instagram]: https://www.instagram.com/gamalielaji/
+[instagram]: https://www.instagram.com/gee_aji/
 [linkedin]: https://linkedin.com/in/gamalielaji
 
 <!--
