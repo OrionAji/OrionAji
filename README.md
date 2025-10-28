@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **Gamaliel Aji**
 
 ### 💻 ALX Backend Engineering Learner | Cohort 8  
-📍 Kaduna, Nigeria | 🌐 [linkedin.com/in/gamalielaji2030](https://www.linkedin.com/in/gamalielaji2030)  
+📍 Kaduna, Nigeria 
+🌐 [linkedin.com/in/gamalielaji2030](https://www.linkedin.com/in/gamalielaji2030)  
 ✉️ [ajigamaliel30@gmail.com](mailto:ajigamaliel30@gmail.com)  
 🔗 GitHub: [OrionAji](https://github.com/OrionAji)  
 📄 **Résumé:** _Pending_  
@@ -10,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I am an ALX Backend Engineering learner passionate about **bridging the gap between real-life problems and technology**. My goal is to build backend systems that improve productivity and optimize day-to-day operations across **medical**, **agricultural**, **aviation**, and **safety** sectors.  
+I am an ALX Backend Engineering learner passionate about **bridging the gap between real-life problems and technology**. My goal is to build backend systems that improve productivity and optimize day-to-day operations across **medical**, **agricultural**, **aviation**, and **safety** sectors. My background in Electrical/Electronics Engineering from Nigeria's premiere military training institution - Nigerian Defence Academy, and my day job as a fighter pilot for the Nigerian Air Force has equipped me with the discipline, precision and problem-solving mindset that is needed to drive innovation in this fast-paced world of technology and digital davancement. 
 
 > “Technology is not just about innovation — it’s about improving lives and simplifying how we work.”
 
@@ -72,12 +73,15 @@ _(Coming soon — placeholders below)_
 
 ---
 
-## 📫 Contact  
+## 📫 Contact Me
+I’m always open to collaborations, mentorship, and opportunities in tech, aviation, or innovation.
 **Email:** [ajigamaliel30@gmail.com](mailto:ajigamaliel30@gmail.com)  
 **LinkedIn:** [linkedin.com/in/gamalielaji2030](https://www.linkedin.com/in/gamalielaji2030)  
 **Portfolio/Blog:** _Coming soon_  
 **Availability:** 🟢 _Remote only_  
 
 ---
+“Once navigating the skies, now navigating systems — I build backend solutions with the same focus that guided me through the clouds.”
 
+---
 © 2025 **Gamaliel Aji** — *ALX Backend Engineering Learner (Cohort 8)*  
