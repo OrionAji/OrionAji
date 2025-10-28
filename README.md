@@ -16,7 +16,24 @@
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gamalielaji2030)  
 - 📄 **Resume:** Pending upload  
 
-I am an ALX Backend Engineering learner passionate about bridging the gap between real-life problems and technology. My goal is to build backend systems that improve productivity and optimize day-to-day operations across medical, agricultural, aviation, and safety sectors. My background in Electrical/Electronics Engineering from Nigeria's premiere military training institution - Nigerian Defence Academy, and my day job as a fighter pilot for the Nigerian Air Force has equipped me with the discipline, precision and problem-solving mindset that is needed to drive innovation in this fast-paced world of technology and digital davancement. 
+I’m passionate about building efficient backend systems that bridge the gap between **daily activities and tech solutions**.  
+My goal is to leverage technology to optimize productivity and solve real-world problems — especially in **medical**, **agricultural**, **aviation**, and **safety** sectors.
+
+---
+
+## 💡 Mission & Values
+
+> “Technology should simplify life, not complicate it.”
+
+My mission is to **bridge the gap between human effort and digital efficiency** — transforming complex problems into simple, impactful solutions.  
+I believe in:
+- ⚖️ **Integrity:** Building systems that are reliable, transparent, and meaningful.  
+- 🌍 **Impact:** Using technology to improve lives and communities.  
+- 🔁 **Continuous Growth:** Staying curious, learning daily, and pushing boundaries.  
+- 🤝 **Collaboration:** Sharing knowledge and growing together with others in the tech ecosystem.  
+
+> 🕊️ *My core value: Excellence with purpose — code that serves, systems that last.*
+
 ---
 
 ## 🛫 From Aviation to Engineering
@@ -24,7 +41,7 @@ I am an ALX Backend Engineering learner passionate about bridging the gap betwe
 | ✈️ **Phase** | 🚀 **Journey** |
 |---------------|----------------|
 | **2019–Present** | Serving as a **fighter pilot**, mastering precision, discipline, and situational awareness. |
-| **2024** | Transitioned into **software engineering**, inspired by how tech can optimize complex systems. |
+| **2024** | Transitioning into **software engineering**, inspired by how tech can optimize complex systems. |
 | **2025–Present** | Pursuing **Backend Engineering at ALX**, building scalable systems and data-driven solutions. |
 
 > 💡 *Aviation taught me discipline and clarity; engineering taught me creativity and logic. Together, they fuel my purpose.*
