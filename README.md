@@ -1,36 +1,83 @@
-<h1>Hi, I'm Aji!</h1>
+# 👋 Hi, I'm **Gamaliel Aji**
 
-<h2>👨‍💻 Software Development Projects:</h2>
+### 💻 ALX Backend Engineering Learner | Cohort 8  
+📍 Kaduna, Nigeria | 🌐 [linkedin.com/in/gamalielaji2030](https://www.linkedin.com/in/gamalielaji2030)  
+✉️ [ajigamaliel30@gmail.com](mailto:ajigamaliel30@gmail.com)  
+🔗 GitHub: [OrionAji](https://github.com/OrionAji)  
+📄 **Résumé:** _Pending_  
+🛰️ **Availability:** Remote only  
 
-  - [Medical Support App](https://github.com/joshmadakor1/Algorithms-Practice)
-  
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+## 👨‍💻 About Me  
+I am an ALX Backend Engineering learner passionate about **bridging the gap between real-life problems and technology**. My goal is to build backend systems that improve productivity and optimize day-to-day operations across **medical**, **agricultural**, **aviation**, and **safety** sectors.  
 
-<h2> 🤳 Connect with me:</h2>
+> “Technology is not just about innovation — it’s about improving lives and simplifying how we work.”
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**🎯 My Mission:**  
+- Build robust, secure, and efficient backend systems.  
+- Leverage technology for real-world problem-solving.  
+- Contribute to open-source projects that impact lives.  
 
-[twitter]: https://twitter.com/gamalielaji
-[youtube]: https://www.youtube.com/c/gamalielaji
-[instagram]: https://www.instagram.com/gee_aji/
-[linkedin]: https://linkedin.com/in/gamalielaji
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Core Skills  
+| Languages | Backend / DevOps | Tools & Practices |
+|------------|------------------|-------------------|
+| JavaScript (Node.js), Python, SQL (Postgres) | Express.js / Fastify, Docker, Redis, NGINX | Git & GitHub, CI/CD (GitHub Actions), Jest, Pytest, REST & GraphQL API Design |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects  
+_(Coming soon — placeholders below)_
+
+### 🩺 Project 1: `{{PROJECT1_TITLE}}`
+**Description:** {{PROJECT1_TAGLINE}}  
+**Tech:** Node.js • Postgres • Docker  
+- Problem: {{PROJECT1_PROBLEM_STATEMENT}}  
+- My Role: {{PROJECT1_YOUR_ROLE}}  
+- Outcome: {{PROJECT1_OUTCOME}}  
+
+---
+
+### 🌾 Project 2: `{{PROJECT2_TITLE}}`
+**Description:** {{PROJECT2_TAGLINE}}  
+**Tech:** Python • FastAPI • Redis  
+- Problem: {{PROJECT2_PROBLEM_STATEMENT}}  
+- My Role: {{PROJECT2_YOUR_ROLE}}  
+- Outcome: {{PROJECT2_OUTCOME}}  
+
+---
+
+### ✈️ Project 3: `{{PROJECT3_TITLE}}`
+**Description:** {{PROJECT3_TAGLINE}}  
+**Tech:** Node.js • Express  
+- Problem: {{PROJECT3_PROBLEM_STATEMENT}}  
+- My Role: {{PROJECT3_YOUR_ROLE}}  
+- Outcome: {{PROJECT3_OUTCOME}}  
+
+---
+
+## 🎓 Education & Credentials  
+- **ALX Africa — Backend Engineering (Cohort 8)**  
+- Self-Study: Systems Design, API Development  
+- Certifications: _Docker Essentials_, _GitHub Actions Basics_ (to be added)
+
+---
+
+## 📊 GitHub Stats  
+
+![Gamaliel Aji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OrionAji&show_icons=true&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrionAji)  
+
+---
+
+## 📫 Contact  
+**Email:** [ajigamaliel30@gmail.com](mailto:ajigamaliel30@gmail.com)  
+**LinkedIn:** [linkedin.com/in/gamalielaji2030](https://www.linkedin.com/in/gamalielaji2030)  
+**Portfolio/Blog:** _Coming soon_  
+**Availability:** 🟢 _Remote only_  
+
+---
+
+© 2025 **Gamaliel Aji** — *ALX Backend Engineering Learner (Cohort 8)*  
