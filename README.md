@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/1c6fd3d5-e66a-4194-967f-0ba3305ce44d)<h1 align="center">👋 Hey there, I'm Gamaliel Aji</h1>
+<h1 align="center">👋 Hey there, I'm Gamaliel Aji</h1>
 
 <h3 align="center">Backend Engineer | Problem Solver | Tech Enthusiast</h3>
 
